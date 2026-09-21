@@ -1,0 +1,16 @@
+Poople #391 10/5
+⬜⬜⬜⬜
+⬜⬜⬜⬜
+⬜⬜⬜⬜
+🟫⬜⬜⬜
+🟫🟫⬜⬜
+🟫🟫⬜⬜
+🟫🟫⬜⬜
+⬜🟫⬜⬜
+⬜🟫🟫⬜
+⬜🟫🟫🟫
+🟫🟫🟫🟫
+
+https://poople.io/
+
+{"tom": {"name": "tom", "address": "abcdegehj", "phone": 758945212}, "bob": {"name": "bob", "address": "abrgedehyjku", "phone": 685135264}}
