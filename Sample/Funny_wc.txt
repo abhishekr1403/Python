@@ -1,0 +1,4 @@
+Wordcount: 11	PersonA: Hey, do you know if the library is open today?
+Wordcount: 9	PersonB: Yes, it closes at 5:00 PM on Sundays.
+Wordcount: 12	PersonA: Perfect, I need to return some books before they are overdue.
+Wordcount: 14	PersonB: Let me know if you want me to drop them off for you.
