@@ -1,0 +1,20 @@
+{
+  "actions": [
+    {
+      "task": "Check all the machines this week to prevent sudden breakdowns",
+      "owner": "Anjali"
+    },
+    {
+      "task": "Plan some extra shifts to cover the gap",
+      "owner": "Ramesh"
+    },
+    {
+      "task": "Finish the machine check by Friday",
+      "owner": "Anjali"
+    },
+    {
+      "task": "Send a short report on the paint problem by tomorrow",
+      "owner": "Vikram"
+    }
+  ]
+}

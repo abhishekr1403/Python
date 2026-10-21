@@ -1,0 +1,5 @@
+Here is a 3-bullet point summary of the meeting:
+
+* **Production & Equipment:** Production reached 4,200 out of 5,000 units due to a two-day breakdown of Machine 3, which is now repaired and will undergo a full maintenance check by Friday.
+* **Quality & Supply Chain Issues:** An issue with paint drying caused 80 defective units (requiring a report by tomorrow), while steel supplies are delayed until Thursday.
+* **Action Plan:** Ramesh will schedule extra shifts to make up for the production gap.
