@@ -1,0 +1,22 @@
+[project]
+name = "fastapi-basic"
+version = "0.1.0"
+description = "Basic Fastapi and LLM Tutorial"
+readme = "README.md"
+authors = [
+    { name = "Abhishek", email = "abhishekraveendran1403@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi[standard]>=0.159.1",
+    "google-genai>=2.32.0",
+    "pydantic>=2.14.1",
+    "python-dotenv>=1.2.4",
+]
+
+[project.scripts]
+fastapi-basic = "fastapi_basic:main"
+
+[build-system]
+requires = ["uv_build>=0.13.5,<0.14.0"]
+build-backend = "uv_build"
